@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android_STD/CalorieApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Android_STD/CalorieApp/app/src/main/res/layout/layout_add.xml" value="0.75" />
+        <entry key="..\:/Android_STD/CalorieApp/app/src/main/res/layout/layout_add.xml" value="0.33" />
+        <entry key="..\:/Android_STD/CalorieApp/app/src/main/res/layout/layout_del.xml" value="0.121875" />
+        <entry key="..\:/Android_STD/CalorieApp/app/src/main/res/layout/layout_list.xml" value="0.121875" />
       </map>
     </option>
   </component>

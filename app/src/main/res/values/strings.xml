@@ -4,4 +4,5 @@
     <string name="del">del</string>
     <string name="list">list</string>
     <string name="add">add</string>
+    <string name="cancel">cancel</string>
 </resources>
