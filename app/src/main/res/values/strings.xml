@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalorieCalc</string>
+    <string name="exit">exit</string>
+    <string name="del">del</string>
+    <string name="list">list</string>
+    <string name="add">add</string>
+</resources>
